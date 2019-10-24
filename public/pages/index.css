@@ -1,0 +1,11 @@
+body {
+    background-color: #f2f2f2;
+    box-sizing: border-box;
+}
+
+.wrapper {
+    margin: 40px;
+    padding: 20px;
+    background-color: #fff;
+}
+
