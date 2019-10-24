@@ -1,0 +1,21 @@
+{
+  "name": "demo01",
+  "version": "1.0.0",
+  "description": "draw an ellipse with border-radius",
+  "main": "index.js",
+  "scripts": {
+    "start": "next start",
+    "dev": "next dev",
+    "build": "next build"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@zeit/next-css": "^1.0.1",
+    "antd": "^3.24.2",
+    "babel-plugin-import": "^1.12.2",
+    "next": "^9.1.1",
+    "react": "^16.11.0",
+    "react-dom": "^16.11.0"
+  }
+}
