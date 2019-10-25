@@ -113,7 +113,7 @@ const Ellipse = () => {
                 <Slider min={0} max={350} value={blh} onChange={value => {setBlh(value); updateStyle();}} /> 
                 </Col>
                 <Col span = {4} offset={1}>
-                    <InputNumber min={0} max={350} value={blh} onChange={value => {setTlh(value); updateStyle();}} />
+                    <InputNumber min={0} max={350} value={blh} onChange={value => {setBlh(value); updateStyle();}} />
                 </Col>
             </Row>
             <Divider>Testborder-bottom-right-vertical</Divider>
